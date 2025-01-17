@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação`**
 
-Me chamo Alice Sophia, tenho 20 anos e sou natural de Manaus/Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em mecatrônica. Atualmente, estou cursando Sistemas de Informação na Universidade Estadual do Amazonas, na Escola Superior de Tecnologia (UEA-EST). Meu Linkedin: "[Alice Sophia](https://www.linkedin.com/in/alice-sophia-973044291/)".
+Me chamo Alice Sophia, tenho 20 anos e sou natural de Manaus/Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em mecatrônica. Atualmente, estou cursando Sistemas de Informação na Universidade Estadual do Amazonas, na Escola Superior de Tecnologia (UEA-EST). Meu perfil no Linkedin: "[Alice Sophia](https://www.linkedin.com/in/alice-sophia-973044291/)".
 
 ---
 
